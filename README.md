@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XCaliCatX
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Communications
+- 🌱 I'm on my last Semester of a B.S. in Computer Science at CSUF
+- I am taking Database and Applications, Cryptography, Back-End Engineering and Software Architecture.
 
 
 <!---
