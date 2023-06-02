@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XCaliCatX
-- 🌱 I'm on my last Semester of a B.S. in Computer Science at CSUF
-- I am taking Database and Applications, Cryptography, Back-End Engineering and Software Architecture.
+- 👋 Hi, I’m Kimberly
+- 🌱 Newly Graduated CSUF B.S. in Computer Science
+- These are some of the projects I completed on my education Journey.
 
 
 <!---
